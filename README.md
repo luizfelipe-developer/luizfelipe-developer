@@ -57,21 +57,10 @@ Com formação técnica em Informática pelo SENAC (2023) e cursando Análise e 
 <br/>
 <br/>
 
-
-
-
-
-
-
-              
-          
+### 📊 Estatísticas
 
 <div>
     <a href ="https://github.com/luizfelipe-developer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipe-developer&show_icons=true&theme=dark&include_all_commits=true&count"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipe-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe-developer&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
-<!-- <div>
-    <a href ="https://github.com/luizfelipe-developer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipe-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe-developer&layout=compact&langs_count=16&theme=dracula." />
-</div> -->
